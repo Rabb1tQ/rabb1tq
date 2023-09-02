@@ -1,14 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I like to explore new technologies and develop software solutions and  security research.
+- 🌱 I’m currently learning C++ and security research.
+- 🤔 My website: rabb1tq.github.io
 <!--
 **Rabb1tQ/rabb1tq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+..
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rabb1tq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rabb1tq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+[![RabbitQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G3G4X5X6&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true)
 </p>
 
 
