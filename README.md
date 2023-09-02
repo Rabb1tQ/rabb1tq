@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Rabb1tQ👋
 
 - 🔭 I like to explore new technologies and develop software solutions and  security research.
 - 🌱 I’m currently learning C++ and security research.
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 -->
-<h2>Hey there! I'm Rabb1tQ</h2>
 
 ### 🛠 &nbsp;Tech Stack
 
