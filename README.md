@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+[]()
 <p align="center">
 <a href="https://github.com/rabb1tq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rabb1tq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rabb1tq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-[![RabbitQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G3G4X5X6&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true)
+![RabbitQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G3G4X5X6&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true)
 </p>
 
 
