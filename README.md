@@ -1,9 +1,8 @@
 ### Hi there! I'm Rabb1tQ👋
 
-- 🔭 I like to explore new technologies and develop software solutions and  security research.
-- 🌱 I am currently focusing on security research.
-- 🤔 My website: https://rabb1tq.github.io
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🔭 Passionate about delving into cutting-edge technologies and crafting innovative software solutions, with a keen interest in security research.
+- 🌱 Currently, my primary focus is on advancing my expertise in security research.
+- 🤔 Discover more about my work on my website: https://rabb1tq.github.io
 
 ### 🛠 &nbsp;Tech Stack
 
